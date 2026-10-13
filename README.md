@@ -75,7 +75,7 @@ This project helps demonstrate practical use of Python fundamentals, functions, 
 
 10. GitHub Repository
 
-Repository link: Add your GitHub repository URL after uploading the project.
+Repository link: https://github.com/mahmadsadheek/student-performance-analytics
 
 11. Conclusion
 
